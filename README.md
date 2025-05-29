@@ -1,7 +1,7 @@
 # Flexisaf_project3
-Student Performance Data Visualization Project
+## Student Performance Data Visualization Project
 
-Student Performance Data Visualization Project
+
 📌 Project Overview
 This project demonstrates basic data visualization techniques in Python using Matplotlib and Seaborn libraries. We explored a real-world dataset containing students' performance scores in Math, Reading, and Writing, alongside demographic information such as gender and parental education level.
 
